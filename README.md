@@ -26,7 +26,7 @@ When using TRM, ABAP packages often declare dependencies on other packages. If a
 
 ## 🚀 Installation
 
-Install with TRM command `trm install trm-cts-dependency-check`.
+Install with TRM command `trm install trm-cts-dep-check`.
 
 ## 👥 Authors
 
